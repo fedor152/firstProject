@@ -1,1 +1,3 @@
-sdasdsadasdasd
+<?php
+echo 'Success';
+?>
